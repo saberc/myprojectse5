@@ -1,0 +1,6 @@
+code: boat-table-widget
+titles:
+  en: Boat Table Widget
+  it: Boat Table Widget
+group: free
+customUiPath: boat-table-widget.ftl

@@ -1,0 +1,6 @@
+code: boat-form-widget
+titles:
+  en: Boat Form Widget
+  it: Boat Form Widget
+group: free
+customUiPath: boat-form-widget.ftl

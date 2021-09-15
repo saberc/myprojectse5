@@ -1,0 +1,6 @@
+code: boat-details-widget
+titles:
+  en: Boat Details Widget
+  it: Boat Details Widget
+group: free
+customUiPath: boat-details-widget.ftl

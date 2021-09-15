@@ -1,0 +1,13 @@
+code: myprojectse5-bundle
+description: This is the myprojectse5 bundle
+
+components:
+  plugins:
+    - plugins/myprojectse5-plugin.yaml
+
+  widgets:
+    - ui/widgets/boat/tableWidget/boat-table-widget-descriptor.yaml
+    - ui/widgets/boat/detailsWidget/boat-details-widget-descriptor.yaml
+    - ui/widgets/boat/formWidget/boat-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
